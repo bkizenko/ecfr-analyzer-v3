@@ -1,0 +1,223 @@
+[
+  {
+    "agency": {
+      "id": "",
+      "name": "Alcohol and Tobacco Tax and Trade Bureau",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "alcohol-and-tobacco-tax-and-trade-bureau",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 27}]
+    },
+    "metrics": {
+      "wordCount": 901136,
+      "sectionCount": 3570
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Bureau of Engraving and Printing",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "engraving-and-printing-bureau",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 2824,
+      "sectionCount": 6
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Bureau of the Fiscal Service",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "bureau-of-the-fiscal-service",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 338257,
+      "sectionCount": 1182
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Community Development Financial Institutions Fund",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "community-development-financial-institutions-fund",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 12}]
+    },
+    "metrics": {
+      "wordCount": 50458,
+      "sectionCount": 166
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Comptroller of the Currency",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "comptroller-of-the-currency",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 12}]
+    },
+    "metrics": {
+      "wordCount": 740354,
+      "sectionCount": 1117
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Financial Crimes Enforcement Network",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "financial-crimes-enforcement-network",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 101034,
+      "sectionCount": 290
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Fiscal Service",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "fiscal-service",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 338266,
+      "sectionCount": 1182
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Internal Revenue Service",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "internal-revenue-service",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 26}]
+    },
+    "metrics": {
+      "wordCount": 0,
+      "sectionCount": 0
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Monetary Offices",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "monetary-offices",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 29020,
+      "sectionCount": 95
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Office of Financial Research",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "office-of-financial-research",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 12}]
+    },
+    "metrics": {
+      "wordCount": 6048,
+      "sectionCount": 7
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Office of Foreign Assets Control",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "foreign-assets-control-office",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 559022,
+      "sectionCount": 2711
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Office of Investment Security",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "investment-security-office",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 87539,
+      "sectionCount": 287
+    }
+  },
+  {
+    "agency": {
+      "id": "",
+      "name": "Office of Secretary of the Treasury",
+      "shortName": "",
+      "displayName": "",
+      "sortableName": "",
+      "slug": "office-of-secretary-of-the-treasury",
+      "parent": null,
+      "children": null,
+      "cfr_references": [{"title": 31}]
+    },
+    "metrics": {
+      "wordCount": 0,
+      "sectionCount": 0
+    }
+  }
+] 

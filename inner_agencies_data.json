@@ -1,0 +1,467 @@
+[
+  {
+    "name": "Agricultural Marketing Service",
+    "slug": "agricultural-marketing-service",
+    "cfr_references": [
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 9
+      }
+    ],
+    "wordCount": 1483780,
+    "sectionCount": 8446,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Rural Utilities Service",
+    "slug": "rural-utilities-service",
+    "cfr_references": [
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 1158634,
+    "sectionCount": 2451,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Animal and Plant Health Inspection Service",
+    "slug": "animal-and-plant-health-inspection-service",
+    "cfr_references": [
+      {
+        "title": 7
+      },
+      {
+        "title": 9
+      }
+    ],
+    "wordCount": 895907,
+    "sectionCount": 1800,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Rural Business-Cooperative Service",
+    "slug": "rural-business-cooperative-service",
+    "cfr_references": [
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 766081,
+    "sectionCount": 1734,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Food and Nutrition Service",
+    "slug": "food-and-nutrition-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 754841,
+    "sectionCount": 613,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Rural Housing Service",
+    "slug": "rural-housing-service",
+    "cfr_references": [
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      },
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 683443,
+    "sectionCount": 1600,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Farm Service Agency",
+    "slug": "farm-service-agency",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 631608,
+    "sectionCount": 1797,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Commodity Credit Corporation",
+    "slug": "commodity-credit-corporation",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 463518,
+    "sectionCount": 1188,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Food Safety and Inspection Service",
+    "slug": "food-safety-and-inspection-service",
+    "cfr_references": [
+      {
+        "title": 9
+      }
+    ],
+    "wordCount": 356866,
+    "sectionCount": 1085,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Federal Crop Insurance Corporation",
+    "slug": "federal-crop-insurance-corporation",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 325539,
+    "sectionCount": 228,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Forest Service",
+    "slug": "forest-service",
+    "cfr_references": [
+      {
+        "title": 36
+      }
+    ],
+    "wordCount": 321740,
+    "sectionCount": 706,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "National Institute of Food and Agriculture",
+    "slug": "national-institute-of-food-and-agriculture",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 109802,
+    "sectionCount": 353,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Natural Resources Conservation Service",
+    "slug": "natural-resources-conservation-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 98231,
+    "sectionCount": 363,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Foreign Agricultural Service",
+    "slug": "foreign-agricultural-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 38642,
+    "sectionCount": 105,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Agricultural Research Service",
+    "slug": "agricultural-research-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 18208,
+    "sectionCount": 116,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Advocacy and Outreach",
+    "slug": "advocacy-and-outreach-office",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 9455,
+    "sectionCount": 50,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Energy Policy and New Uses",
+    "slug": "energy-policy-and-new-uses-office",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 6706,
+    "sectionCount": 37,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Transportation",
+    "slug": "transportation-office",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 6658,
+    "sectionCount": 32,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Economic Research Service",
+    "slug": "economic-research-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 3112,
+    "sectionCount": 11,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Procurement and Property Management",
+    "slug": "procurement-and-property-management-office-of",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 3077,
+    "sectionCount": 22,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Inspector General",
+    "slug": "inspector-general-office-agriculture-department",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 2988,
+    "sectionCount": 10,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "National Agricultural Statistics Service",
+    "slug": "national-agricultural-statistics-service",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 2985,
+    "sectionCount": 11,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Operations",
+    "slug": "office-of-operations",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 2912,
+    "sectionCount": 19,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Environmental Quality",
+    "slug": "office-of-environmental-quality",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 2327,
+    "sectionCount": 7,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "World Agricultural Outlook Board",
+    "slug": "world-agricultural-outlook-board",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 1227,
+    "sectionCount": 10,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Information Resources Management",
+    "slug": "office-of-information-resources-management",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 1149,
+    "sectionCount": 8,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Chief Financial Officer",
+    "slug": "office-of-the-chief-financial-officer-agriculture-department",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 0,
+    "sectionCount": 0,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Office of Secretary of Agriculture",
+    "slug": "office-of-secretary-of-agriculture",
+    "cfr_references": [
+      {
+        "title": 7
+      }
+    ],
+    "wordCount": 0,
+    "sectionCount": 0,
+    "parentAgency": "Department of Agriculture"
+  },
+  {
+    "name": "Internal Revenue Service",
+    "slug": "internal-revenue-service",
+    "cfr_references": [
+      {
+        "title": 26
+      },
+      {
+        "title": 27
+      },
+      {
+        "title": 31
+      }
+    ],
+    "wordCount": 13013629,
+    "sectionCount": 28022,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "Alcohol and Tobacco Tax and Trade Bureau",
+    "slug": "alcohol-and-tobacco-tax-and-trade-bureau",
+    "cfr_references": [
+      {
+        "title": 27
+      }
+    ],
+    "wordCount": 901136,
+    "sectionCount": 3570,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "Comptroller of the Currency",
+    "slug": "comptroller-of-the-currency",
+    "cfr_references": [
+      {
+        "title": 12
+      }
+    ],
+    "wordCount": 839343,
+    "sectionCount": 2040,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "Bureau of the Fiscal Service",
+    "slug": "fiscal-service-bureau-of",
+    "cfr_references": [
+      {
+        "title": 31
+      }
+    ],
+    "wordCount": 259307,
+    "sectionCount": 696,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "Financial Crimes Enforcement Network",
+    "slug": "financial-crimes-enforcement-network",
+    "cfr_references": [
+      {
+        "title": 31
+      }
+    ],
+    "wordCount": 95288,
+    "sectionCount": 204,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "Bureau of Engraving and Printing",
+    "slug": "engraving-and-printing-bureau",
+    "cfr_references": [
+      {
+        "title": 31
+      }
+    ],
+    "wordCount": 8483,
+    "sectionCount": 59,
+    "parentAgency": "Department of Treasury"
+  },
+  {
+    "name": "United States Mint",
+    "slug": "mint-bureau",
+    "cfr_references": [
+      {
+        "title": 31
+      }
+    ],
+    "wordCount": 2427,
+    "sectionCount": 34,
+    "parentAgency": "Department of Treasury"
+  }
+]

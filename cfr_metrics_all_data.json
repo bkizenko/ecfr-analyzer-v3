@@ -1,0 +1,10 @@
+{
+  "totalMetrics": {
+    "totalWordCount": 0,
+    "totalSectionCount": 0,
+    "totalAgencyCount": 0,
+    "totalInnerAgencyCount": 0
+  },
+  "agencies": [],
+  "innerAgencies": []
+}

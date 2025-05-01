@@ -1,0 +1,38 @@
+{
+  "agencies": [
+    {
+      "name": "Department of Agriculture",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencyCount": 0,
+      "referenceCount": 0,
+      "slug": "agriculture-department",
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of Commerce",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencyCount": 0,
+      "referenceCount": 0,
+      "slug": "commerce-department",
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of Defense",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencyCount": 0,
+      "referenceCount": 0,
+      "slug": "defense-department",
+      "innerAgencies": []
+    }
+  ],
+  "innerAgencies": [],
+  "processingInfo": {
+    "startIndex": 0,
+    "endIndex": 3,
+    "totalAgencies": 157,
+    "processedCount": 3
+  }
+}

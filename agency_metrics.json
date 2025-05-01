@@ -1,0 +1,1481 @@
+{
+  "metadata": {
+    "description": "Federal Regulations Metrics - Agency and Inner Agency Word Counts",
+    "source": "cfr-metrics.com",
+    "createdAt": "2023-05-01",
+    "totalAgencies": 153,
+    "totalInnerAgencies": 163,
+    "totalWords": 104372225,
+    "totalSections": 231304
+  },
+  "agencies": [
+    {
+      "name": "Department of Treasury",
+      "wordCount": 15120613,
+      "sectionCount": 16768,
+      "innerAgencies": [
+        {
+          "name": "Internal Revenue Service",
+          "wordCount": 13013629,
+          "sectionCount": 28022
+        },
+        {
+          "name": "Alcohol and Tobacco Tax & Trade Bureau",
+          "wordCount": 901140,
+          "sectionCount": 3570
+        },
+        {
+          "name": "Comptroller of the Currency",
+          "wordCount": 740350,
+          "sectionCount": 1120
+        },
+        {
+          "name": "Office of Foreign Assets Control",
+          "wordCount": 559020,
+          "sectionCount": 2710
+        },
+        {
+          "name": "Fiscal Service",
+          "wordCount": 338270,
+          "sectionCount": 1180
+        },
+        {
+          "name": "Bureau of the Fiscal Service",
+          "wordCount": 338260,
+          "sectionCount": 1180
+        },
+        {
+          "name": "Financial Crimes Enforcement Network",
+          "wordCount": 101030,
+          "sectionCount": 290
+        },
+        {
+          "name": "Office of Investment Security",
+          "wordCount": 87540,
+          "sectionCount": 287
+        },
+        {
+          "name": "Community Development Financial Institutions Fund",
+          "wordCount": 50460,
+          "sectionCount": 166
+        },
+        {
+          "name": "Monetary Offices",
+          "wordCount": 29020,
+          "sectionCount": 95
+        },
+        {
+          "name": "Office of Financial Research",
+          "wordCount": 6050,
+          "sectionCount": 7
+        },
+        {
+          "name": "Bureau of Engraving and Printing",
+          "wordCount": 2820,
+          "sectionCount": 6
+        },
+        {
+          "name": "Office of Secretary of the Treasury",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Department of Agriculture",
+      "wordCount": 13566594,
+      "sectionCount": 39902,
+      "innerAgencies": [
+        {
+          "name": "Agricultural Marketing Service",
+          "wordCount": 1480000,
+          "sectionCount": 8450
+        },
+        {
+          "name": "Rural Utilities Service",
+          "wordCount": 1160000,
+          "sectionCount": 2450
+        },
+        {
+          "name": "Animal and Plant Health Inspection Service",
+          "wordCount": 895910,
+          "sectionCount": 1800
+        },
+        {
+          "name": "Rural Business-Cooperative Service",
+          "wordCount": 766080,
+          "sectionCount": 1730
+        },
+        {
+          "name": "Food and Nutrition Service",
+          "wordCount": 754840,
+          "sectionCount": 613
+        },
+        {
+          "name": "Rural Housing Service",
+          "wordCount": 683440,
+          "sectionCount": 1600
+        },
+        {
+          "name": "Farm Service Agency",
+          "wordCount": 631610,
+          "sectionCount": 1800
+        },
+        {
+          "name": "Commodity Credit Corporation",
+          "wordCount": 463520,
+          "sectionCount": 1190
+        },
+        {
+          "name": "Food Safety and Inspection Service",
+          "wordCount": 356870,
+          "sectionCount": 1080
+        },
+        {
+          "name": "Federal Crop Insurance Corporation",
+          "wordCount": 325540,
+          "sectionCount": 228
+        },
+        {
+          "name": "Forest Service",
+          "wordCount": 321740,
+          "sectionCount": 706
+        },
+        {
+          "name": "National Institute of Food and Agriculture",
+          "wordCount": 109800,
+          "sectionCount": 353
+        },
+        {
+          "name": "Natural Resources Conservation Service",
+          "wordCount": 98230,
+          "sectionCount": 363
+        },
+        {
+          "name": "Foreign Agricultural Service",
+          "wordCount": 38640,
+          "sectionCount": 105
+        },
+        {
+          "name": "Agricultural Research Service",
+          "wordCount": 18210,
+          "sectionCount": 116
+        },
+        {
+          "name": "Office of Advocacy and Outreach",
+          "wordCount": 9460,
+          "sectionCount": 50
+        },
+        {
+          "name": "Office of Energy Policy and New Uses",
+          "wordCount": 6710,
+          "sectionCount": 37
+        },
+        {
+          "name": "Office of Transportation",
+          "wordCount": 6660,
+          "sectionCount": 32
+        },
+        {
+          "name": "Economic Research Service",
+          "wordCount": 3110,
+          "sectionCount": 11
+        },
+        {
+          "name": "Office of Procurement and Property Management",
+          "wordCount": 3080,
+          "sectionCount": 22
+        },
+        {
+          "name": "Office of Inspector General",
+          "wordCount": 2990,
+          "sectionCount": 10
+        },
+        {
+          "name": "National Agricultural Statistics Service",
+          "wordCount": 2980,
+          "sectionCount": 11
+        },
+        {
+          "name": "Office of Operations",
+          "wordCount": 2910,
+          "sectionCount": 19
+        },
+        {
+          "name": "Office of Environmental Quality",
+          "wordCount": 2330,
+          "sectionCount": 7
+        },
+        {
+          "name": "World Agricultural Outlook Board",
+          "wordCount": 1230,
+          "sectionCount": 10
+        },
+        {
+          "name": "Office of Information Resources Management",
+          "wordCount": 1150,
+          "sectionCount": 8
+        },
+        {
+          "name": "Office of Chief Financial Officer",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Secretary of Agriculture",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Department of Health and Human Services",
+      "wordCount": 7868232,
+      "sectionCount": 20262,
+      "innerAgencies": [
+        {
+          "name": "Food and Drug Administration",
+          "wordCount": 2620000,
+          "sectionCount": 7840
+        },
+        {
+          "name": "Centers for Medicare & Medicaid Services",
+          "wordCount": 2540000,
+          "sectionCount": 5070
+        },
+        {
+          "name": "Public Health Service",
+          "wordCount": 571810,
+          "sectionCount": 1980
+        },
+        {
+          "name": "Administration for Children and Families",
+          "wordCount": 428140,
+          "sectionCount": 1120
+        },
+        {
+          "name": "Indian Health Service",
+          "wordCount": 87290,
+          "sectionCount": 622
+        },
+        {
+          "name": "Office of Inspector General – Health Care",
+          "wordCount": 80950,
+          "sectionCount": 187
+        },
+        {
+          "name": "Office of Administration for Children and Families (Child Support Enforcement)",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Administration for Children and Families (Community Services)",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Administration for Children and Families (Family Assistance Programs)",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Administration for Children and Families (Refugee Resettlement)",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Department of Transportation",
+      "wordCount": 5677323,
+      "sectionCount": 13577,
+      "innerAgencies": [
+        {
+          "name": "Federal Aviation Administration",
+          "wordCount": 1710000,
+          "sectionCount": 4730
+        },
+        {
+          "name": "Pipeline and Hazardous Materials Safety Administration",
+          "wordCount": 975870,
+          "sectionCount": 1910
+        },
+        {
+          "name": "National Highway Traffic Safety Administration",
+          "wordCount": 905480,
+          "sectionCount": 1200
+        },
+        {
+          "name": "Federal Railroad Administration",
+          "wordCount": 806320,
+          "sectionCount": 2020
+        },
+        {
+          "name": "Federal Motor Carrier Safety Administration",
+          "wordCount": 440810,
+          "sectionCount": 1080
+        },
+        {
+          "name": "Federal Highway Administration",
+          "wordCount": 416740,
+          "sectionCount": 1030
+        },
+        {
+          "name": "Maritime Administration",
+          "wordCount": 249750,
+          "sectionCount": 800
+        },
+        {
+          "name": "Federal Transit Administration",
+          "wordCount": 92100,
+          "sectionCount": 345
+        },
+        {
+          "name": "Great Lakes St. Lawrence Seaway Development Corporation",
+          "wordCount": 27690,
+          "sectionCount": 131
+        },
+        {
+          "name": "Federal Aviation Administration Commercial Space Transportation",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Secretary (Aviation Proceedings)",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Secretary of Transportation",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Department of Energy",
+      "wordCount": 2450762,
+      "sectionCount": 5060,
+      "innerAgencies": [
+        {
+          "name": "Federal Energy Regulatory Commission",
+          "wordCount": 752330,
+          "sectionCount": 1360
+        }
+      ]
+    },
+    {
+      "name": "Federal Communications Commission",
+      "wordCount": 2327408,
+      "sectionCount": 5307,
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of Justice",
+      "wordCount": 2028887,
+      "sectionCount": 5008,
+      "innerAgencies": [
+        {
+          "name": "Executive Office for Immigration Review",
+          "wordCount": 221720,
+          "sectionCount": 330
+        },
+        {
+          "name": "Drug Enforcement Administration",
+          "wordCount": 178400,
+          "sectionCount": 465
+        },
+        {
+          "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+          "wordCount": 129460,
+          "sectionCount": 421
+        },
+        {
+          "name": "Bureau of Prisons",
+          "wordCount": 99440,
+          "sectionCount": 481
+        },
+        {
+          "name": "Foreign Claims Settlement Commission of the United States",
+          "wordCount": 17850,
+          "sectionCount": 94
+        },
+        {
+          "name": "Federal Prison Industries",
+          "wordCount": 11660,
+          "sectionCount": 70
+        },
+        {
+          "name": "Offices of Independent Counsel",
+          "wordCount": 3340,
+          "sectionCount": 13
+        }
+      ]
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "wordCount": 1580073,
+      "sectionCount": 2283,
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of Veterans Affairs",
+      "wordCount": 1349862,
+      "sectionCount": 3403,
+      "innerAgencies": []
+    },
+    {
+      "name": "Nuclear Regulatory Commission",
+      "wordCount": 1256925,
+      "sectionCount": 2693,
+      "innerAgencies": []
+    },
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "wordCount": 1224211,
+      "sectionCount": 671,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Personnel Management",
+      "wordCount": 1085067,
+      "sectionCount": 3925,
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of Education",
+      "wordCount": 1081746,
+      "sectionCount": 2620,
+      "innerAgencies": [
+        {
+          "name": "Office of Postsecondary Education",
+          "wordCount": 610760,
+          "sectionCount": 1080
+        },
+        {
+          "name": "Office of Special Education and Rehabilitative Services",
+          "wordCount": 270690,
+          "sectionCount": 827
+        },
+        {
+          "name": "Office of Elementary and Secondary Education",
+          "wordCount": 93590,
+          "sectionCount": 303
+        },
+        {
+          "name": "Office for Civil Rights",
+          "wordCount": 76640,
+          "sectionCount": 221
+        },
+        {
+          "name": "Department of Education Acquisition Regulation",
+          "wordCount": 22440,
+          "sectionCount": 162
+        },
+        {
+          "name": "Office of Bilingual Education and Minority Languages Affairs",
+          "wordCount": 16,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of and Adult Education Technical Career",
+          "wordCount": 0,
+          "sectionCount": 0
+        },
+        {
+          "name": "Office of Secretary of Education",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Social Security Administration",
+      "wordCount": 897111,
+      "sectionCount": 2118,
+      "innerAgencies": []
+    },
+    {
+      "name": "Commodity Futures Trading Commission",
+      "wordCount": 824653,
+      "sectionCount": 1201,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Deposit Insurance Corporation",
+      "wordCount": 771077,
+      "sectionCount": 1200,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Property Management Regulations System",
+      "wordCount": 456477,
+      "sectionCount": 3235,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Trade Commission",
+      "wordCount": 423985,
+      "sectionCount": 975,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Credit Union Administration",
+      "wordCount": 416179,
+      "sectionCount": 698,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Management and Budget",
+      "wordCount": 384803,
+      "sectionCount": 1113,
+      "innerAgencies": [
+        {
+          "name": "Office of Federal Procurement Policy",
+          "wordCount": 97720,
+          "sectionCount": 287
+        }
+      ]
+    },
+    {
+      "name": "Federal Housing Finance Agency",
+      "wordCount": 351021,
+      "sectionCount": 795,
+      "innerAgencies": []
+    },
+    {
+      "name": "Surface Transportation Board",
+      "wordCount": 317795,
+      "sectionCount": 725,
+      "innerAgencies": []
+    },
+    {
+      "name": "Agency for International Development",
+      "wordCount": 284904,
+      "sectionCount": 973,
+      "innerAgencies": []
+    },
+    {
+      "name": "Railroad Retirement Board",
+      "wordCount": 282465,
+      "sectionCount": 979,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "wordCount": 276403,
+      "sectionCount": 1174,
+      "innerAgencies": []
+    },
+    {
+      "name": "Equal Employment Opportunity Commission",
+      "wordCount": 270153,
+      "sectionCount": 525,
+      "innerAgencies": []
+    },
+    {
+      "name": "Farm Credit Administration",
+      "wordCount": 263716,
+      "sectionCount": 735,
+      "innerAgencies": []
+    },
+    {
+      "name": "Library of Congress",
+      "wordCount": 251665,
+      "sectionCount": 316,
+      "innerAgencies": [
+        {
+          "name": "U.S. Copyright Office",
+          "wordCount": 171450,
+          "sectionCount": 135
+        },
+        {
+          "name": "Copyright Royalty Board",
+          "wordCount": 67780,
+          "sectionCount": 133
+        }
+      ]
+    },
+    {
+      "name": "General Services Administration",
+      "wordCount": 254898,
+      "sectionCount": 1241,
+      "innerAgencies": [
+        {
+          "name": "Civilian Board of Contract Appeals",
+          "wordCount": 14650,
+          "sectionCount": 78
+        }
+      ]
+    },
+    {
+      "name": "Pension Benefit Guaranty Corporation",
+      "wordCount": 234847,
+      "sectionCount": 580,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Election Commission",
+      "wordCount": 222658,
+      "sectionCount": 525,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Labor Relations Authority",
+      "wordCount": 221786,
+      "sectionCount": 933,
+      "innerAgencies": [
+        {
+          "name": "General Counsel of the Federal Labor Relations Authority",
+          "wordCount": 109950,
+          "sectionCount": 463
+        },
+        {
+          "name": "Federal Service Impasses Panel",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "United States Postal Service",
+      "wordCount": 216789,
+      "sectionCount": 726,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Archives and Records Administration",
+      "wordCount": 206021,
+      "sectionCount": 824,
+      "innerAgencies": [
+        {
+          "name": "Information Security Oversight Office",
+          "wordCount": 54040,
+          "sectionCount": 102
+        },
+        {
+          "name": "Office of Federal Register",
+          "wordCount": 0,
+          "sectionCount": 0
+        }
+      ]
+    },
+    {
+      "name": "Corporation for National and Community Service",
+      "wordCount": 185300,
+      "sectionCount": 859,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Maritime Commission",
+      "wordCount": 172788,
+      "sectionCount": 516,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Government Ethics",
+      "wordCount": 171833,
+      "sectionCount": 297,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States International Trade Commission",
+      "wordCount": 136255,
+      "sectionCount": 386,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Foundation on the Arts and the Humanities",
+      "wordCount": 134762,
+      "sectionCount": 590,
+      "innerAgencies": [
+        {
+          "name": "Institute of Museum and Library Services",
+          "wordCount": 4190,
+          "sectionCount": 32
+        },
+        {
+          "name": "National Endowment for the Humanities",
+          "wordCount": 2180,
+          "sectionCount": 18
+        },
+        {
+          "name": "National Endowment for the Arts",
+          "wordCount": 2050,
+          "sectionCount": 18
+        }
+      ]
+    },
+    {
+      "name": "National Science Foundation",
+      "wordCount": 127366,
+      "sectionCount": 519,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Travel Regulation System",
+      "wordCount": 123335,
+      "sectionCount": 1032,
+      "innerAgencies": []
+    },
+    {
+      "name": "Executive Office of the President",
+      "wordCount": 116261,
+      "sectionCount": 327,
+      "innerAgencies": [
+        {
+          "name": "Office of Science and Technology Policy",
+          "wordCount": 40280,
+          "sectionCount": 100
+        },
+        {
+          "name": "Council on Environmental Quality",
+          "wordCount": 32650,
+          "sectionCount": 109
+        },
+        {
+          "name": "National Security Council",
+          "wordCount": 29690,
+          "sectionCount": 67
+        },
+        {
+          "name": "Office of the Intellectual Property Enforcement Coordinator",
+          "wordCount": 9420,
+          "sectionCount": 24
+        }
+      ]
+    },
+    {
+      "name": "Postal Regulatory Commission",
+      "wordCount": 112170,
+      "sectionCount": 410,
+      "innerAgencies": []
+    },
+    {
+      "name": "Tennessee Valley Authority",
+      "wordCount": 106715,
+      "sectionCount": 367,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Labor Relations Board",
+      "wordCount": 81166,
+      "sectionCount": 272,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Retirement Thrift Investment Board",
+      "wordCount": 80473,
+      "sectionCount": 300,
+      "innerAgencies": []
+    },
+    {
+      "name": "Merit Systems Protection Board",
+      "wordCount": 70923,
+      "sectionCount": 278,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Mediation and Conciliation Service",
+      "wordCount": 69778,
+      "sectionCount": 310,
+      "innerAgencies": []
+    },
+    {
+      "name": "Legal Services Corporation",
+      "wordCount": 66944,
+      "sectionCount": 327,
+      "innerAgencies": []
+    },
+    {
+      "name": "Government Accountability Office",
+      "wordCount": 60495,
+      "sectionCount": 222,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States Agency for Global Media",
+      "wordCount": 61335,
+      "sectionCount": 231,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Transportation Safety Board",
+      "wordCount": 56216,
+      "sectionCount": 277,
+      "innerAgencies": []
+    },
+    {
+      "name": "Selective Service System",
+      "wordCount": 52998,
+      "sectionCount": 285,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Navajo and Hopi Indian Relocation",
+      "wordCount": 50316,
+      "sectionCount": 245,
+      "innerAgencies": []
+    },
+    {
+      "name": "Small Business Administration",
+      "wordCount": 494746,
+      "sectionCount": 1532,
+      "innerAgencies": []
+    },
+    {
+      "name": "Presidio Trust",
+      "wordCount": 45521,
+      "sectionCount": 162,
+      "innerAgencies": []
+    },
+    {
+      "name": "Occupational Safety and Health Review Commission",
+      "wordCount": 44228,
+      "sectionCount": 145,
+      "innerAgencies": []
+    },
+    {
+      "name": "Peace Corps",
+      "wordCount": 42937,
+      "sectionCount": 153,
+      "innerAgencies": []
+    },
+    {
+      "name": "Export-Import Bank of the United States",
+      "wordCount": 36766,
+      "sectionCount": 112,
+      "innerAgencies": []
+    },
+    {
+      "name": "Pennsylvania Avenue Development Corporation",
+      "wordCount": 36531,
+      "sectionCount": 183,
+      "innerAgencies": []
+    },
+    {
+      "name": "Committee for Purchase From People Who Are Blind or Severely Disabled",
+      "wordCount": 34131,
+      "sectionCount": 129,
+      "innerAgencies": []
+    },
+    {
+      "name": "African Development Foundation",
+      "wordCount": 33526,
+      "sectionCount": 257,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Mine Safety and Health Review Commission",
+      "wordCount": 32674,
+      "sectionCount": 148,
+      "innerAgencies": []
+    },
+    {
+      "name": "Advisory Council on Historic Preservation",
+      "wordCount": 31039,
+      "sectionCount": 57,
+      "innerAgencies": []
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "wordCount": 30982,
+      "sectionCount": 142,
+      "innerAgencies": []
+    },
+    {
+      "name": "Foreign Service Labor Relations Board",
+      "wordCount": 30652,
+      "sectionCount": 158,
+      "innerAgencies": []
+    },
+    {
+      "name": "Foreign Service Impasse Disputes Panel",
+      "wordCount": 30652,
+      "sectionCount": 158,
+      "innerAgencies": []
+    },
+    {
+      "name": "Court Services and Offender Supervision Agency for the District of Columbia",
+      "wordCount": 30397,
+      "sectionCount": 91,
+      "innerAgencies": []
+    },
+    {
+      "name": "Delaware River Basin Commission",
+      "wordCount": 30381,
+      "sectionCount": 129,
+      "innerAgencies": []
+    },
+    {
+      "name": "Water Resources Council",
+      "wordCount": 29104,
+      "sectionCount": 134,
+      "innerAgencies": []
+    },
+    {
+      "name": "Inter-American Foundation",
+      "wordCount": 27039,
+      "sectionCount": 211,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Capital Planning Commission",
+      "wordCount": 26569,
+      "sectionCount": 81,
+      "innerAgencies": []
+    },
+    {
+      "name": "Susquehanna River Basin Commission",
+      "wordCount": 26845,
+      "sectionCount": 70,
+      "innerAgencies": []
+    },
+    {
+      "name": "Commission on Civil Rights",
+      "wordCount": 25204,
+      "sectionCount": 89,
+      "innerAgencies": []
+    },
+    {
+      "name": "Defense Nuclear Facilities Safety Board",
+      "wordCount": 25108,
+      "sectionCount": 89,
+      "innerAgencies": []
+    },
+    {
+      "name": "Chemical Safety and Hazard Investigation Board",
+      "wordCount": 24929,
+      "sectionCount": 78,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Financial Institutions Examination Council",
+      "wordCount": 23967,
+      "sectionCount": 60,
+      "innerAgencies": []
+    },
+    {
+      "name": "Farm Credit System Insurance Corporation",
+      "wordCount": 23369,
+      "sectionCount": 87,
+      "innerAgencies": []
+    },
+    {
+      "name": "Commission of Fine Arts",
+      "wordCount": 22691,
+      "sectionCount": 109,
+      "innerAgencies": []
+    },
+    {
+      "name": "Financial Stability Oversight Council",
+      "wordCount": 22287,
+      "sectionCount": 32,
+      "innerAgencies": []
+    },
+    {
+      "name": "Election Assistance Commission",
+      "wordCount": 21475,
+      "sectionCount": 80,
+      "innerAgencies": []
+    },
+    {
+      "name": "Utah Reclamation Mitigation and Conservation Commission",
+      "wordCount": 21689,
+      "sectionCount": 90,
+      "innerAgencies": []
+    },
+    {
+      "name": "Joint Board for the Enrollment of Actuaries",
+      "wordCount": 20947,
+      "sectionCount": 55,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Counterintelligence Center",
+      "wordCount": 20294,
+      "sectionCount": 113,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Council on Disability",
+      "wordCount": 13197,
+      "sectionCount": 45,
+      "innerAgencies": []
+    },
+    {
+      "name": "Emergency Oil and Gas Guaranteed Loan Board",
+      "wordCount": 13692,
+      "sectionCount": 28,
+      "innerAgencies": []
+    },
+    {
+      "name": "Emergency Steel Guarantee Loan Board",
+      "wordCount": 13476,
+      "sectionCount": 29,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Independent Counsel",
+      "wordCount": 13462,
+      "sectionCount": 29,
+      "innerAgencies": []
+    },
+    {
+      "name": "Administrative Conference of the United States",
+      "wordCount": 12395,
+      "sectionCount": 31,
+      "innerAgencies": []
+    },
+    {
+      "name": "American Battle Monuments Commission",
+      "wordCount": 12510,
+      "sectionCount": 50,
+      "innerAgencies": []
+    },
+    {
+      "name": "Administrative Committee of the Federal Register",
+      "wordCount": 12897,
+      "sectionCount": 126,
+      "innerAgencies": []
+    },
+    {
+      "name": "Marine Mammal Commission",
+      "wordCount": 12645,
+      "sectionCount": 59,
+      "innerAgencies": []
+    },
+    {
+      "name": "Gulf Coast Ecosystem Restoration Council",
+      "wordCount": 12054,
+      "sectionCount": 41,
+      "innerAgencies": []
+    },
+    {
+      "name": "Privacy and Civil Liberties Oversight Board",
+      "wordCount": 10712,
+      "sectionCount": 32,
+      "innerAgencies": []
+    },
+    {
+      "name": "Special Inspector General for Afghanistan Reconstruction",
+      "wordCount": 10987,
+      "sectionCount": 23,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Commission on Military, National, and Public Service",
+      "wordCount": 9720,
+      "sectionCount": 20,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States International Development Cooperation Agency",
+      "wordCount": 9879,
+      "sectionCount": 39,
+      "innerAgencies": []
+    },
+    {
+      "name": "James Madison Memorial Fellowship Foundation",
+      "wordCount": 9873,
+      "sectionCount": 57,
+      "innerAgencies": []
+    },
+    {
+      "name": "Harry S. Truman Scholarship Foundation",
+      "wordCount": 9524,
+      "sectionCount": 64,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Railroad Passenger Corporation",
+      "wordCount": 9128,
+      "sectionCount": 15,
+      "innerAgencies": []
+    },
+    {
+      "name": "Nuclear Waste Technical Review Board",
+      "wordCount": 9171,
+      "sectionCount": 32,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of National Drug Control Policy",
+      "wordCount": 9249,
+      "sectionCount": 32,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Commission on Libraries and Information Science",
+      "wordCount": 9724,
+      "sectionCount": 64,
+      "innerAgencies": []
+    },
+    {
+      "name": "Smithsonian Institution",
+      "wordCount": 2774,
+      "sectionCount": 35,
+      "innerAgencies": []
+    },
+    {
+      "name": "Consumer Product Safety Commission",
+      "wordCount": 524306,
+      "sectionCount": 1173,
+      "innerAgencies": []
+    },
+    {
+      "name": "Department of State",
+      "wordCount": 551267,
+      "sectionCount": 1893,
+      "innerAgencies": []
+    },
+    {
+      "name": "Council of the Inspectors General on Integrity and Efficiency",
+      "wordCount": 14326,
+      "sectionCount": 32,
+      "innerAgencies": []
+    },
+    {
+      "name": "Architectural and Transportation Barriers Compliance Board",
+      "wordCount": 156821,
+      "sectionCount": 167,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Mediation Board",
+      "wordCount": 14338,
+      "sectionCount": 62,
+      "innerAgencies": []
+    },
+    {
+      "name": "Millennium Challenge Corporation",
+      "wordCount": 13388,
+      "sectionCount": 54,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Special Counsel",
+      "wordCount": 15450,
+      "sectionCount": 64,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Procurement Regulations System",
+      "wordCount": 6,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Appalachian Regional Commission",
+      "wordCount": 82,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "East-West Foreign Trade Board",
+      "wordCount": 179,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "Oklahoma City National Memorial Trust",
+      "wordCount": 512,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "Interstate Commerce Commission",
+      "wordCount": 937,
+      "sectionCount": 4,
+      "innerAgencies": []
+    },
+    {
+      "name": "Construction Industry Collective Bargaining Commission",
+      "wordCount": 791,
+      "sectionCount": 7,
+      "innerAgencies": []
+    },
+    {
+      "name": "First Responder Network Authority",
+      "wordCount": 1563,
+      "sectionCount": 5,
+      "innerAgencies": []
+    },
+    {
+      "name": "President's Commission on White House Fellowships",
+      "wordCount": 1366,
+      "sectionCount": 5,
+      "innerAgencies": []
+    },
+    {
+      "name": "Northeast Interstate Low-Level Radioactive Waste Commission",
+      "wordCount": 1745,
+      "sectionCount": 5,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Director of National Intelligence",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Acquisition Regulatory Council",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States and Mexico International Boundary and Water Commission",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States International Development Finance Corporation",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States and Canada International Joint Commission",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Morris K. Udall and Stewart L. Udall Foundation",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of United States Trade Representative",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Vice President of the United States",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Reserve System",
+      "wordCount": 1736147,
+      "sectionCount": 1534,
+      "innerAgencies": [
+        {
+          "name": "Board of Governors of the Federal Reserve System",
+          "wordCount": 1736147,
+          "sectionCount": 1534
+        }
+      ]
+    },
+    {
+      "name": "Federal Acquisition Security Council",
+      "wordCount": 5636,
+      "sectionCount": 10,
+      "innerAgencies": []
+    },
+    {
+      "name": "Denali Commission",
+      "wordCount": 5561,
+      "sectionCount": 26,
+      "innerAgencies": []
+    },
+    {
+      "name": "Neighborhood Reinvestment Corporation",
+      "wordCount": 4030,
+      "sectionCount": 4,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States Institute of Peace",
+      "wordCount": 3703,
+      "sectionCount": 19,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Commission for Employment Policy",
+      "wordCount": 3612,
+      "sectionCount": 19,
+      "innerAgencies": []
+    },
+    {
+      "name": "Arctic Research Commission",
+      "wordCount": 3660,
+      "sectionCount": 19,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office for Micronesian Status Negotiations",
+      "wordCount": 3620,
+      "sectionCount": 19,
+      "innerAgencies": []
+    },
+    {
+      "name": "Japan-United States Friendship Commission",
+      "wordCount": 3620,
+      "sectionCount": 19,
+      "innerAgencies": []
+    },
+    {
+      "name": "Military Compensation and Retirement Modernization Commission",
+      "wordCount": 3540,
+      "sectionCount": 8,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Financing Bank",
+      "wordCount": 2777,
+      "sectionCount": 17,
+      "innerAgencies": []
+    },
+    {
+      "name": "International Organizations Employees Loyalty Board",
+      "wordCount": 2062,
+      "sectionCount": 16,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Permitting Improvement Steering Council",
+      "wordCount": 138,
+      "sectionCount": 2,
+      "innerAgencies": []
+    },
+    {
+      "name": "Foreign Service Grievance Board",
+      "wordCount": 7972,
+      "sectionCount": 66,
+      "innerAgencies": []
+    },
+    {
+      "name": "Armed Forces Retirement Home",
+      "wordCount": 6863,
+      "sectionCount": 21,
+      "innerAgencies": []
+    },
+    {
+      "name": "Air Transportation System Stabilization",
+      "wordCount": 6271,
+      "sectionCount": 30,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Crime Prevention and Privacy Compact Council",
+      "wordCount": 5606,
+      "sectionCount": 24,
+      "innerAgencies": []
+    },
+    {
+      "name": "National Railroad Adjustment Board",
+      "wordCount": 1155,
+      "sectionCount": 9,
+      "innerAgencies": []
+    },
+    {
+      "name": "Interstate Commerce Commission",
+      "wordCount": 965,
+      "sectionCount": 4,
+      "innerAgencies": []
+    },
+    {
+      "name": "Construction Industry Collective Bargaining Commission",
+      "wordCount": 816,
+      "sectionCount": 7,
+      "innerAgencies": []
+    },
+    {
+      "name": "Oklahoma City National Memorial Trust",
+      "wordCount": 534,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Permitting Improvement Steering Council",
+      "wordCount": 138,
+      "sectionCount": 2,
+      "innerAgencies": []
+    },
+    {
+      "name": "East-West Foreign Trade Board",
+      "wordCount": 184,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "Appalachian Regional Commission",
+      "wordCount": 85,
+      "sectionCount": 1,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Procurement Regulations System",
+      "wordCount": 6,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Director of National Intelligence",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Federal Acquisition Regulatory Council",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States and Mexico International Boundary and Water Commission",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States International Development Finance Corporation",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "United States and Canada International Joint Commission",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of United States Trade Representative",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Office of Vice President of the United States",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    },
+    {
+      "name": "Morris K. Udall and Stewart L. Udall Foundation",
+      "wordCount": 0,
+      "sectionCount": 0,
+      "innerAgencies": []
+    }
+  ]
+} 

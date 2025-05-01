@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Alcohol and Tobacco Tax and Trade Bureau",
+    "slug": "alcohol-and-tobacco-tax-and-trade-bureau",
+    "wordCount": 901136,
+    "sectionCount": 3570,
+    "references": 27
+  },
+  {
+    "name": "Comptroller of the Currency",
+    "slug": "comptroller-of-the-currency",
+    "wordCount": 740354,
+    "sectionCount": 1117,
+    "references": 12
+  },
+  {
+    "name": "Office of Foreign Assets Control",
+    "slug": "foreign-assets-control-office",
+    "wordCount": 559022,
+    "sectionCount": 2711,
+    "references": 31
+  },
+  {
+    "name": "Fiscal Service",
+    "slug": "fiscal-service",
+    "wordCount": 338266,
+    "sectionCount": 1182,
+    "references": 31
+  },
+  {
+    "name": "Bureau of the Fiscal Service",
+    "slug": "bureau-of-the-fiscal-service",
+    "wordCount": 338257,
+    "sectionCount": 1182,
+    "references": 31
+  },
+  {
+    "name": "Financial Crimes Enforcement Network",
+    "slug": "financial-crimes-enforcement-network",
+    "wordCount": 101034,
+    "sectionCount": 290,
+    "references": 31
+  },
+  {
+    "name": "Office of Investment Security",
+    "slug": "investment-security-office",
+    "wordCount": 87539,
+    "sectionCount": 287,
+    "references": 31
+  },
+  {
+    "name": "Community Development Financial Institutions Fund",
+    "slug": "community-development-financial-institutions-fund",
+    "wordCount": 50458,
+    "sectionCount": 166,
+    "references": 12
+  },
+  {
+    "name": "Monetary Offices",
+    "slug": "monetary-offices",
+    "wordCount": 29020,
+    "sectionCount": 95,
+    "references": 31
+  },
+  {
+    "name": "Office of Financial Research",
+    "slug": "office-of-financial-research",
+    "wordCount": 6048,
+    "sectionCount": 7,
+    "references": 12
+  },
+  {
+    "name": "Bureau of Engraving and Printing",
+    "slug": "engraving-and-printing-bureau",
+    "wordCount": 2824,
+    "sectionCount": 6,
+    "references": 31
+  },
+  {
+    "name": "Internal Revenue Service",
+    "slug": "internal-revenue-service",
+    "wordCount": 0,
+    "sectionCount": 0,
+    "references": 26
+  },
+  {
+    "name": "Office of Secretary of the Treasury",
+    "slug": "office-of-secretary-of-the-treasury",
+    "wordCount": 0,
+    "sectionCount": 0,
+    "references": 31
+  }
+]
