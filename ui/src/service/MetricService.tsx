@@ -4,74 +4,118 @@ import {
 } from "ecfr-analyzer/data/ResponseContainer";
 import { TitleMetricResponse } from "ecfr-analyzer/data/TitleMetricResponse";
 import { AgencyMetrics } from "ecfr-analyzer/data/AgencyMetrics";
+import { Agency } from "ecfr-analyzer/data/Agency";
 
-const apiRoot = process.env.NEXT_PUBLIC_ECFR_SERVICE_API_URL;
+const apiRoot = process.env.NEXT_PUBLIC_ECFR_SERVICE_API_URL || "http://localhost:8090/ecfr-service";
 const defaultRevalidate = 60 * 60; // seconds
 
 export async function fetchTitleMetrics(): Promise<
   ResponseContainer<TitleMetricResponse>
 > {
-  const res = await fetch(`${apiRoot}/metrics/titles`, {
-    next: { revalidate: defaultRevalidate },
-  });
+  try {
+    const response = await fetch(`${apiRoot}/metrics/titles`, {
+      next: {
+        revalidate: defaultRevalidate,
+      },
+    });
 
-  if (!res.ok) {
+    if (!response.ok) {
+      return errorResponse({
+        code: response.status,
+        message: `Failed to fetch title metrics: ${response.statusText}`,
+      });
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error("Error fetching title metrics:", error);
     return errorResponse({
-      code: res.status,
-      message: "An error occurred fetching title metrics",
+      code: 500,
+      message: `Failed to fetch title metrics: ${error}`,
     });
   }
-
-  return await res.json();
 }
 
 export async function fetchAgencyMetrics(): Promise<
   ResponseContainer<AgencyMetrics[]>
 > {
-  const res = await fetch(`${apiRoot}/metrics/agencies`, {
-    next: { revalidate: defaultRevalidate },
-  });
+  try {
+    const response = await fetch(`${apiRoot}/metrics/agencies`, {
+      next: {
+        revalidate: defaultRevalidate,
+      },
+    });
 
-  if (!res.ok) {
+    if (!response.ok) {
+      return errorResponse({
+        code: response.status,
+        message: `Failed to fetch agency metrics: ${response.statusText}`,
+      });
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error("Error fetching agency metrics:", error);
     return errorResponse({
-      code: res.status,
-      message: "An error occurred fetching agencies metrics",
+      code: 500,
+      message: `Failed to fetch agency metrics: ${error}`,
     });
   }
-
-  return await res.json();
 }
 
 export async function fetchMetricsForAgency(
   slug: string,
 ): Promise<ResponseContainer<AgencyMetrics>> {
-  const res = await fetch(`${apiRoot}/metrics/agencies/${slug}`, {
-    next: { revalidate: defaultRevalidate },
-  });
+  try {
+    const response = await fetch(`${apiRoot}/metrics/agencies/${slug}`, {
+      next: {
+        revalidate: defaultRevalidate,
+      },
+    });
 
-  if (!res.ok) {
+    if (!response.ok) {
+      return errorResponse({
+        code: response.status,
+        message: `Failed to fetch metrics for agency ${slug}: ${response.statusText}`,
+      });
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error(`Error fetching metrics for agency ${slug}:`, error);
     return errorResponse({
-      code: res.status,
-      message: "An error occurred fetching metrics for agency",
+      code: 500,
+      message: `Failed to fetch metrics for agency ${slug}: ${error}`,
     });
   }
-
-  return await res.json();
 }
 
 export async function fetchSubAgencyMetrics(
   slug: string,
 ): Promise<ResponseContainer<AgencyMetrics[]>> {
-  const res = await fetch(`${apiRoot}/metrics/agencies/${slug}/sub-agencies`, {
-    next: { revalidate: defaultRevalidate },
-  });
+  try {
+    const response = await fetch(
+      `${apiRoot}/metrics/agencies/${slug}/sub-agencies`,
+      {
+        next: {
+          revalidate: defaultRevalidate,
+        },
+      },
+    );
 
-  if (!res.ok) {
+    if (!response.ok) {
+      return errorResponse({
+        code: response.status,
+        message: `Failed to fetch sub-agency metrics for ${slug}: ${response.statusText}`,
+      });
+    }
+
+    return await response.json();
+  } catch (error) {
+    console.error(`Error fetching sub-agency metrics for ${slug}:`, error);
     return errorResponse({
-      code: res.status,
-      message: "An error occurred fetching subagency metrics for agency",
+      code: 500,
+      message: `Failed to fetch sub-agency metrics for ${slug}: ${error}`,
     });
   }
-
-  return await res.json();
 }
